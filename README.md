@@ -10,7 +10,7 @@
 > **npm i yarn -g**
 #
 ### install dependencies
-> **yarn install*
+> **yarn install**
 #
 
 ### run scripts
