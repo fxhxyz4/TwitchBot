@@ -1,4 +1,5 @@
 ### TwitchBot w tmi.js
+
 > **[tmi web](https://tmijs.com/)**
 
 > **[tmi docs](https://tmijs.github.io/docs/)**
@@ -7,37 +8,52 @@
 #
 
 ### install yarn
-> **npm i yarn -g**
+```
+$ npm i yarn -g
+```
 #
 ### install dependencies
-> **yarn install**
+```
+$ yarn install
+```
 #
 
 ### run scripts
-> **yarn dev**
+```
+$ yarn dev
 
-> **yarn node**
+$ yarn node
+```
 #
 
 ### install Heroku cli
 > **[Heroku cli](https://devcenter.heroku.com/articles/heroku-cli#install-the-heroku-cli)**
 
-> **heroku --help**
-
-> **heroku login**
-
-> **heroku create**
-
 > **[Heroku Dashboard](https://dahboard.heroku.com/apps)**
 #
 
 ### Heroku Deploy
-> **git init**
-
-> **git add .**
-
-> **git commit -m "commit"**
-
-> **heroku git:remote -a ___AppName___**
-
-> **git push heroku main**
+```
+$ heroku --help
+```
+```
+$ heroku login
+```
+```
+$ heroku create
+```
+```
+$ git init
+```
+```
+$ git add .
+```
+```
+$ git commit -m "commit"
+```
+```
+$ heroku git:remote -a AppName
+```
+```
+$ git push heroku main
+```
