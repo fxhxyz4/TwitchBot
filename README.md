@@ -40,6 +40,6 @@
 
 > **git commit -m "commit"**
 
-> **heroku git:remote -a ___RepositoryAppName___**
+> **heroku git:remote -a ___AppName___**
 
 > **git push heroku main**
