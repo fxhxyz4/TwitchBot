@@ -1,0 +1,24 @@
+{
+  "name": "TwitchBotTmiJs",
+  "version": "1.0.0",
+  "author": "fxhxyz4 <fxhxyz@proton.me> (https://fxhxyz4.github.io)",
+  "description": "Twitch bot w tmi.js",
+  "keywords": [
+    "TwitchBot",
+    "Tmi",
+    "TmiJS",
+    "twitch",
+    "tmijs",
+    "JavaScript"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "node": "node index.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "tmi.js": "^1.8.5"
+  }
+}
