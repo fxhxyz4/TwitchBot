@@ -10,9 +10,7 @@
 > **npm i yarn -g**
 #
 ### install dependencies
-> **yarn add tmi.js**
-
-> **yarn add nodemon**
+> **yarn install*
 #
 
 ### run scripts
